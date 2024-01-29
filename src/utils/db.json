@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "registration": [
+    {
+      "name": "Deepak Patel",
+      "email": "admin@gmail.com",
+      "mobile": "09399431102",
+      "img": "https://yt3.googleusercontent.com/ytc/AIf8zZQE4EjtBJaXGdJNCavf6o-zaJSeuLNg0OoE8iq6Iw=s900-c-k-c0x00ffffff-no-rj",
+      "password": "1111",
+      "id": 1
+    }
+  ],
+  "customers": [
+    {
+      "name": "Nitin Sir",
+      "email": "nitin@gmail.com",
+      "money": "9000",
+      "status": "on delivery",
+      "date": "2024-01-29T13:56",
+      "month": "2024-01",
+      "id": 1
+    },
+    {
+      "name": "ranjeet patel",
+      "email": "ranjeet@gmail.com",
+      "money": "1200",
+      "status": "delivered",
+      "date": "2024-01-28T23:17",
+      "month": "2024-01",
+      "id": 2
+    },
+    {
+      "name": "ankit sir",
+      "email": "ankit@gmail.com",
+      "money": "500",
+      "status": "on delivery",
+      "date": "2024-01-28T23:22",
+      "month": "2024-01",
+      "id": 3
+    },
+    {
+      "name": "Nitin Sir",
+      "email": "nitin@gmail.com",
+      "money": "9000",
+      "status": "delivered",
+      "date": "2024-01-29T13:54",
+      "month": "2024-01",
+      "id": 4
+    },
+    {
+      "name": "sanchita",
+      "email": "sanchita@gmail.com",
+      "money": "9000",
+      "status": "on delivery",
+      "date": "2024-01-29T14:08",
+      "month": "2024-01",
+      "id": 5
+    }
+  ]
+}
